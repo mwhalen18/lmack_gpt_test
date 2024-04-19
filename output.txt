@@ -1,0 +1,191 @@
+0:Neutrophils, Cytotoxic T Cells, Plasma Cells, NK Cells
+1:T Cells
+2:NK Cells, Cytotoxic T Cells
+3:NK Cells, Cytotoxic T Cells
+4:T Cells
+5:Neutrophils
+6:T Cells
+7:B Cells
+8:T Cells
+9:T Cells
+10:Cytotoxic T Cells
+11:Cytotoxic T Cells
+12:Cytotoxic T Cells, NK Cells
+13:Non-Specific, Most Likely Ribosomes of Any Cell Type
+14:Neutrophils, Dendritic Cells, Monocytes
+15:T Cells
+16:Non-Specific
+17:Neutrophils, Monocytes
+18:B Cells
+19:Macrophages, Neutrophils
+20:T Cells
+21:Non-Specific
+22:Cytotoxic T Cells, NK Cells
+23:Macrophages, Neutrophils
+24:NK Cells, T Cells
+25:Neutrophils, Monocytes, Macrophages
+26:T Cells
+27:T Cells, NK Cells
+28:Platelets
+29:Cytotoxic T Cells, NK Cells
+30:Non-Specific
+31:B Cells
+32:Neutrophils, Monocytes, Macrophages
+33:Non-Specific, Likely Proliferating Cells
+34:T Cells
+35:Non-Specific
+36:T Cells
+37:NK Cells, Cytotoxic T Cells
+38:Macrophages, Neutrophils
+39:B Cells
+40:B Cells, DC Cells
+41:Macrophages, Neutrophils
+42:Plasma cells
+43:B Cells
+44:NK Cells, T Cells
+45:B Cells
+46:Neutrophils, Monocytes
+47:Cytotoxic T Cells, NK Cells
+48:NK Cells
+49:T Cells, Macrophages
+50:Platelets
+51:B Cells
+52:Non-Specific
+53:Erythrocytes  
+-------------------  
+0: Natural Killer Cells
+1: Cytotoxic T cells
+2: T Regulatory Cells
+3: T Cells
+4: Dendritic Cells
+5: Cytotoxic T Cells
+6: T Cells
+7: B Cells
+8: Monocytes
+9: Endothelial Cells
+10: T Cells
+11: T Regulatory Cells
+12: Dendritic Cells
+13: Endothelial Cells
+14: Monocytes
+15: Endothelial Cells
+16: Monocytes
+17: Proliferating Cells
+18: Natural Killer Cells
+19: Monocytes
+20: T Cells
+21: T cells
+22: Monocytes
+23: Monocytes
+24: B Cells
+25: Dendritic Cells
+26: Proliferating Cells
+27: B Cells
+28: T Cells
+29: Dendritic Cells
+30: B Cells
+31: Natural Killer Cells
+32: Dendritic Cells
+33: Monocytes
+34: B Cells
+35: Monocytes
+36: T Cells
+37: Proliferating Cells
+38: B Cells
+39: Natural Killer Cells
+40: Dendritic Cells
+41: Mature Neurons
+42: Dendritic Cells
+43: Mature Neurons
+44: B Cells
+45: T Cells
+46: Erythrocytes
+47: Mature Neurons.  
+-------------------  
+0:Natural Killer Cells
+1:Not specific to a cell type, could be a mixture of cell types
+2:Not specific to a cell type, could be a mixture of cell types
+3:Natural Killer Cells
+4:Endothelial Cells
+5:T Cells
+6:Neutrophils
+7:T Cells
+8:Not specific to a cell type, could be a mixture of cell types
+9:T Cells
+10:T Cells
+11:T Cells
+12:Monocytes
+13:B Cells
+14:Natural Killer Cells
+15:T Cells
+16:Not specific to a cell type, could be a mixture of cell types
+17:T Cells
+18:T Cells
+19:Not specific to a cell type, could be a mixture of cell types
+20:T Cells
+21:B Cells
+22:Not specific to a cell type, could be a mixture of cell types
+23:Not specific to a cell type, could be a mixture of cell types
+24:Not specific to a cell type, could be a mixture of cell types
+25:Natural Killer Cells
+26:Not specific to a cell type, could be a mixture of cell types
+27:Not specific to a cell type, could be a mixture of cell types
+28:B Cells
+29:Natural Killer Cells
+30:Monocytes
+31:T Cells
+32:Not specific to a cell type, could be a mixture of cell types
+33:Not specific to a cell type, could be a mixture of cell types
+34:Monocytes
+35:Not specific to a cell type, could be a mixture of cell types
+36:Not specific to a cell type, could be a mixture of cell types
+37:Monocytes
+38:Natural Killer Cells
+39:Natural Killer Cells
+40:Endothelial Cells
+41:Red Blood Cells  
+-------------------  
+0:T Follicular Helper Cells
+1:B cells
+2:T cells
+3:Not specific to a particular cell type
+4:T cells
+5:Not specific to a particular cell type
+6:Not specific to a particular cell type
+7:Cytotoxic T cells
+8:Not specific to a particular cell type
+9:Cytotoxic T cells
+10:T cells
+11:Not specific to a particular cell type
+12:Not specific to a particular cell type
+13:Natural Killer Cells
+14:Not specific to a particular cell type
+15:Natural Killer Cells
+16:Natural Killer Cells
+17:T cells
+18:Not specific to a particular cell type
+19:Natural Killer Cells
+20:T cells
+21:B cells
+22:Regulatory T Cells
+23:Not specific to a particular cell type
+24:Macrophages
+25:Not specific to a particular cell type
+26:T cells
+27:Not specific to a particular cell type
+28:Not specific to a particular cell type
+29:Monocytes
+30:T cells
+31:Not specific to a particular cell type
+32:Macrophages
+33:Macrophages
+34:T cells
+35:Macrophages
+36:Red Blood Cells
+37:Natural Killer Cells
+38:B cells
+39:T cells
+40:B cells
+41:Macrophages
+42:T cells
+43:Not specific to a particular cell type
